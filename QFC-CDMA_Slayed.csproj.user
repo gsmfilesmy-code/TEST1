@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="cdmaTerm\CustomComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\CustomTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\DarkMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\fist_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\KgMDMTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\Lock_key.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\LoginRegster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSContextMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSControlButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSHScrollBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSKeyboard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSOnOffBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSPaginator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSRandomPool.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSSeperator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSTheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\NSVScrollBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\QFC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\RedemptionControlBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\shzuku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\sidekey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\ThemeContainer154.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\ThemeControl154.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchBigButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchCollapseBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchColorSpace.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchRadiobutton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchTheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\TwitchWhiteTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="cdmaTerm\update_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns0\lSfgApatkdxsVcGcrktoFd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ns0\rFohpatkdxsVcxLfJKhM7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

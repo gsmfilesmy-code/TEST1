@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>GSM MOBILE CLINIC</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net452</TargetFramework>
+    <Prefer32Bit>False</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <RootNamespace />
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="GSM MOBILE CLINIC.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="VgFGZmyZqhJCcDS3Yj.ksWKLiZt4MR1M67FQv" />
+    <EmbeddedResource Include="VgFGZmyZqhJCcDS3Yj.ksWKLiZt4MR1M67FQv" LogicalName="VgFGZmyZqhJCcDS3Yj.ksWKLiZt4MR1M67FQv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="AndroidLib">
+      <HintPath>bin\Debug\net452\AndroidLib.dll</HintPath>
+    </Reference>
+    <Reference Include="winAPIcom">
+      <HintPath>bin\Debug\net452\winAPIcom.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="FireSharp">
+      <HintPath>bin\Debug\net452\FireSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="cdmaDevLib">
+      <HintPath>bin\Debug\net452\cdmaDevLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+</Project>
